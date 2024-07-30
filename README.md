@@ -29,5 +29,5 @@ I'm always open to new opportunities and collaborations. Whether you're interest
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Adith-techie&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Adith-techie&style=plastic&color=7C00FE)
 
