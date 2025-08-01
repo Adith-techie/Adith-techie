@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a **programmer** with a keen interest in video
 - 🎨 Graphic Designing
 - 🎥 Video Editing
 - 🖌️ YouTube Banner Creation
-- 👗 Fashion Design
 
 ### Technology & Development
 - 💻 Front-End Development (HTML, CSS, JavaScript)
