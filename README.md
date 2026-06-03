@@ -10,20 +10,20 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
--Builder. Ship fast. Founder mindset.
--Full-stack & product engineering focus
--Active on LinkedIn & X — dev × founder intersection
--Video editor · Graphic Designer
--Founder of Fudofab
+- Builder. Ship fast. Founder mindset.
+- Full-stack & product engineering focus
+- Active on LinkedIn & X — dev × founder intersection
+- Video editor · Graphic Designer
+- Founder of Fudofab
 
 
 ## 🧠 My Focus Areas
--Full-Stack Web Development
--Backend Systems & APIs
--Database Design (MySQL / DBMS)
--Developer Tooling & Automation
--Open Source Projects
--Personal Branding for Builders
+- Full-Stack Web Development
+- Backend Systems & APIs
+- Database Design (MySQL / DBMS)
+- Developer Tooling & Automation
+- Open Source Projects
+- Personal Branding for Builders
 
 
 ## 📊 GitHub Stats & Trophies
