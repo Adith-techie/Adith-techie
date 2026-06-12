@@ -1,5 +1,12 @@
 <h1 align="center">Adith K</h1>
-<h3 align="center">Full-Stack Developer · AI Builder · Founder</h3>
+
+<p align="center">
+  <strong>Full-Stack Developer · AI Builder · Founder</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Building+full-stack+products+fast.;From+idea+to+deployed+app.;Open+to+new+opportunities.;Founder+of+FUDOFAB+Creative+Studio." alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adith-k-a88b6730a/">
@@ -20,7 +27,7 @@
 2nd-year B.Tech CSE student at MIT Kannur (Class of 2028).  
 I build full-stack products fast — from idea to deployed app.  
 Founder of **FUDOFAB** creative studio. Campus Ambassador at **DevTown**.  
-Focused on landing a **frontend / full-stack SWE internship**.
+Open to new opportunities in software development.
 
 > *"Ideas are cheap. Execution is everything."*
 
@@ -72,15 +79,21 @@ Bulk PDF certificate generator with live preview. Built for MIT Kannur's EKTHA/I
 
 ## 🛠️ Tech Stack
 
-**Languages:** JavaScript · TypeScript · Python · Java · C++ · PHP  
-**Frontend:** React · Next.js · Vue.js · HTML5 · CSS3 · Tailwind · Bootstrap  
-**Backend:** Node.js · Flask · Spring Boot  
-**DB:** MySQL · PostgreSQL · SQLite  
-**Tools:** Git · Docker · Figma · VS Code · Vite
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,vue,html,css,tailwind,nodejs,flask,mysql,postgresql,docker,git,figma,vscode,vite&perline=10" />
+</p>
+
+---
+
+## 📊 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adith-techie&theme=react-dark&hide_border=true&area=true&color=00FFFF&line=7F00FF&point=ffffff" width="100%" />
+</p>
 
 ---
 
 ## 📬 Let's Connect
 
-Open to **frontend / full-stack internship** opportunities.  
+Open to collaborations, projects, and opportunities.  
 Reach me on [LinkedIn](https://www.linkedin.com/in/adith-k-a88b6730a/) or [email](mailto:adithamith810@gmail.com).
