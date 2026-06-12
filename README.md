@@ -41,16 +41,32 @@ Focused on landing a **frontend / full-stack SWE internship**.
 ## 🏗️ Featured Projects
 
 ### 🎨 FUDOFAB — Creative Studio Website
-Full site redesign with scroll-triggered animations, IntersectionObserver, glassmorphism navbar, custom cursor.  
-`HTML · CSS · Vanilla JS · Syne/DM Sans typography`
+Full site redesign with scroll-triggered animations, IntersectionObserver, glassmorphism navbar, and custom cursor.  
+`HTML` `CSS` `Vanilla JS` `Syne/DM Sans typography`
+
+---
+
+### 🏨 Hotel Management System
+Feature-rich, responsive web app for daily hotel operations — room management, customer records, billing, and analytical reports. Clean dashboard with smooth UX. Deployed on Vercel.  
+`React.js (Vite)` `JavaScript ES6` `CSS` `React Router DOM` `Vercel`
+
+---
+
+### 🎵 YouTube to MP3 Converter
+Python desktop app that downloads audio from YouTube, converts to MP3, and auto-embeds the video thumbnail as cover art.  
+`Python` `yt-dlp` `moviepy` `mutagen` `ttkbootstrap` `requests`
+
+---
+
+### 🔐 Brute Force Attack Simulation
+Educational Flask demo simulating a secure login page alongside an attack simulation script. Built to demonstrate real-world login vulnerabilities and defense strategies.  
+`Python` `Flask` `HTML`
+
+---
 
 ### 🏆 Certificate Generator — Vibe Hackathon Tool
-Built for MIT Kannur's EKTHA/IEDC hackathon. Bulk PDF certificate generator with live preview.  
-`Flask · ReportLab · pdf2image · Pillow · Vanilla JS`
-
-### 🤖 Hermes Agent Setup
-Multi-provider AI agent with fallback strategy across free-tier cloud LLMs. Configured on WSL2.  
-`Python · REST APIs · WSL2 · Linux`
+Bulk PDF certificate generator with live preview. Built for MIT Kannur's EKTHA/IEDC hackathon.  
+`Flask` `ReportLab` `pdf2image` `Pillow` `Vanilla JS`
 
 ---
 
@@ -61,18 +77,6 @@ Multi-provider AI agent with fallback strategy across free-tier cloud LLMs. Conf
 **Backend:** Node.js · Flask · Spring Boot  
 **DB:** MySQL · PostgreSQL · SQLite  
 **Tools:** Git · Docker · Figma · VS Code · Vite
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Adith-techie&theme=nightowl&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://stats.pphat.top/languages?username=Adith-techie" />
-</p>
 
 ---
 
