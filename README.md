@@ -24,7 +24,7 @@
 
 ## 👋 About Me
 
-2nd-year B.Tech CSE student at MIT Kannur (Class of 2028).  
+3rd-year B.Tech CSE student at MIT Kannur (Class of 2028).  
 I build full-stack products fast — from idea to deployed app.  
 Founder of **FUDOFAB** creative studio. Campus Ambassador at **DevTown**.  
 Open to new opportunities in software development.
